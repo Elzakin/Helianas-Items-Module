@@ -7,7 +7,7 @@ Dieses Modul bringt die Harvesting-Komponenten aus *Heliana's Guide to Monster H
 1. Oeffne in Foundry VTT den Reiter **Add-on Modules**.
 2. Klicke auf **Install Module** und trage die Manifest-URL ein:
    ```
-   https://example.com/helianas-items/module.json
+   https://raw.githubusercontent.com/Elzakin/Helianas-Items-Module/main/module.json
    ```
 3. Nach der Installation das Modul in deiner Welt aktivieren.
 

@@ -26,6 +26,18 @@
       }
     ]
   },
+  "scripts": [],
+  "esmodules": [
+    "/esmodules/module.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
   "packs": [
     {
       "name": "helianas-items",
@@ -35,9 +47,9 @@
       "type": "Item"
     }
   ],
-  "url": "https://example.com/helianas-items",
-  "manifest": "https://example.com/helianas-items/module.json",
-  "download": "https://example.com/helianas-items/module.zip",
+  "url": "https://github.com/Elzakin/Helianas-Items-Module",
+  "manifest": "https://raw.githubusercontent.com/Elzakin/Helianas-Items-Module/main/module.json",
+  "download": "https://github.com/Elzakin/Helianas-Items-Module/archive/refs/heads/main.zip",
   "license": "LICENSE.md",
   "flags": {},
   "bugs": "",

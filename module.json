@@ -28,14 +28,7 @@
   },
   "scripts": [],
   "esmodules": [],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json",
-      "flags": {}
-    }
-  ],
+  "languages": [],
   "packs": [
     {
       "name": "helianas-items",

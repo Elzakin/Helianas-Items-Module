@@ -1,0 +1,45 @@
+{
+  "id": "helianas-items-module",
+  "title": "Helianas Items Compendium",
+  "description": "Enthaelt ein Kompendium fuer Helianas Koch- und Harvesting-System in D&D5E.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Heliana",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351",
+    "maximum": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.2.3",
+          "verified": "5.2.3"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "helianas-items",
+      "label": "Helianas Kochkomponenten",
+      "system": "dnd5e",
+      "path": "packs/helianas-items.db",
+      "type": "Item"
+    }
+  ],
+  "url": "https://example.com/helianas-items",
+  "manifest": "https://example.com/helianas-items/module.json",
+  "download": "https://example.com/helianas-items/module.zip",
+  "license": "LICENSE.md",
+  "flags": {},
+  "bugs": "",
+  "readme": "README.md"
+}
